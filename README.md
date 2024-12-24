@@ -1,1 +1,1 @@
-# Code_Camp_Projects
+# DSA_JS_Camp_Projects
